@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Vincent, a ~~young~~ new Javascript Web Developper willing to start his journey about awesome app creation ✨
+I'm Vincent, a ~~young~~ new Javascript Web Developer willing to start his journey about awesome app creation ✨
 - 📫 How to reach me : vdeljesus@gmail.com
 
 #### I'm currently :
